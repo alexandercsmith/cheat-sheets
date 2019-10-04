@@ -1,3 +1,3 @@
 # BASH Cheat Sheets
 
-* [Git](/git.md)
+* [Git](/bash/git.md)

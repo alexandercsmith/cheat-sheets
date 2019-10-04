@@ -1,3 +1,3 @@
 # JavaScript Cheat Sheets
 
-* [Node.js](/node-js.md)
+* [Node.js](/javascript/node-js.md)
