@@ -1,1 +1,1 @@
-# CSS & SCSS Cheat Sheet
+# CSS & SCSS Cheat Sheets
