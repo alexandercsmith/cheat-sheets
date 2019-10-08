@@ -2,7 +2,7 @@
 
 > Programming Cheat Sheets
 
-* [BASH](/bash/README.md)
+* [Console](/console/README.md)
 * [CSS](/css/README.md)
 * [HTML](/html/README.md)
 * [JavaScript](/javascript/README.md)
