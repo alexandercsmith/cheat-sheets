@@ -3,9 +3,57 @@
 > AWS-CLI Commands
 
 ```bash
+# Configure CLI
+$ aws configure
+
 # AWS Options & Commands
 $ aws help
+
+# Command Structure
+$ aws [options] <command> <subcommand> [parameters]
 ```
+
+---
+
+## Install & Upgrade
+```bash
+$ pip3 install awscli --upgrade --user
+```
+
+---
+
+## Options
+```bash
+--debug (boolean)
+
+--endpoint-url (string)
+
+--no-verify-ssl (boolean)
+
+--no-paginate (boolean)
+
+--output (string) # json : text : table
+
+--query (string)
+
+--profile (string)
+
+--region (string)
+
+--version (string)
+
+--color (string) # on : off : auto
+
+--no-sign-request (boolean)
+
+--ca-bundle (string)
+
+--cli-read-timeout (int)
+
+--cli-connect-timeout (int)
+```
+
+---
 
 ## Services
 
