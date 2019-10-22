@@ -4,6 +4,7 @@
 
 * `Array.from()` : Array Chunking
 * `Intl.PluralRules` : Ordinal Numbers
+* `Intl.DateTimeFormat` : Formatted Date/Time Strings
 
 ---
 
@@ -63,4 +64,29 @@ stndrdth(1); // 1st
 stndrdth(2); // 2nd
 stndrdth(3); // 3rd
 stndrdth(4); // 4th
+```
+
+---
+
+### `Intl.DateTimeFormat` : Formatted Date/Time Strings
+
+> Nicely Internationally Formatted Date/Time String Outputs
+
+```javascript
+const now = new Date();
+
+new Intl.DateTimeFormat('en-US', { dateStyle: 'full' }).format(now);
+// Tuesday, October 15, 2020
+
+new Intl.DateTimeFormat('en-US', { dateStyle: 'long' }).format(now);
+// October 15, 2020
+
+new Intl.DateTimeFormat('en-US', { dateStyle: 'medium' }).format(now);
+// Oct 15, 2020
+
+new Intl.DateTimeFormat('en-US', { dateStyle: 'short' }).format(now);
+// 10/15/20
+
+new Intl.DateTimeFormat('fr-CA', { dateStyle: 'long' }).format(now);
+// 15 Octobre 2020
 ```
