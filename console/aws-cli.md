@@ -58,26 +58,37 @@ $ pip3 install awscli --upgrade --user
 ## Services
 
 * `$ aws acm`
+  - `$ aws acm `
 
 * `$ aws apigateway`
+  - `$ aws apigateway `
 
 * `$ aws application-autoscaling`
+  - `$ aws application-autoscaling `
 
 * `$ aws autoscaling`
+  - `$ aws autoscaling `
 
 * `$ aws cloudformation`
+  - `$ aws cloudformation `
 
 * `$ aws cloudfront`
+  - `$ aws cloudfront `
 
 * `$ aws cloudhsm`
+  - `$ aws cloudhsm `
 
 * `$ aws cloudsearch`
+  - `$ aws cloudsearch `
 
 * `$ aws cloudsearchdomain`
+  - `$ aws cloudsearchdomain `
 
 * `$ aws cloudtrail`
+  - `$ aws cloudtrail `
 
 * `$ aws cloudwatch`
+  - `$ aws cloudwatch `
 
 * `$ aws codecommit`
 

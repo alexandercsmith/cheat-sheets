@@ -1,4 +1,4 @@
-# JavaScript Arrays
+# JavaScript Functions Cheat Sheet
 
 > JavaScript Array Functions & Methods
 
