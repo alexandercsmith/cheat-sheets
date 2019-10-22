@@ -9,6 +9,7 @@
 * [PHP](/php/README.md)
 * [Python](/python/README.md)
 * [Ruby](/ruby/README.md)
+* [SQL](/sql/README.md)
 * [Swift](/swift/README.md)
 
 Created by: [Alexander Smith](https://www.github.com/alexandercsmith)
