@@ -1,4 +1,4 @@
 # JavaScript Cheat Sheets
 
 * [Node.js](/javascript/node-js.md)
-* Functions
+* [Functions](/javascript/functions.md)

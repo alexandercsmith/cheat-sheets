@@ -1,4 +1,4 @@
 # CSS & SCSS Cheat Sheets
 
-* Columns
-* Mixins
+* [Columns](/css/columns.md)
+* [Mixins](/css/mixins.md)

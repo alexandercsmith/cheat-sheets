@@ -1,3 +1,3 @@
 # Ruby Cheat Sheets
 
-* Publishing Module
+* [Publishing](/ruby/publishing.rb)
